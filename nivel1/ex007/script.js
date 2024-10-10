@@ -16,7 +16,7 @@ function calcularMedia(){
 
         let media = soma / 2
         
-        document.getElementById("span").innerHTML = (`Calculando a média final de ${nome}<br>
+        document.getElementById("span").innerHTML = (`Calculando a  média final de ${nome}<br>
             As notas obtidas foram ${nota1} e ${nota2}<br>
             A média final é ${media}`
         )
